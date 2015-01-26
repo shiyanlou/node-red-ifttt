@@ -1,37 +1,10 @@
-# Node-RED
+# Node-RED-ifttt
 
-http://nodered.org
+来自实验楼的实践课，如果您想要了解Node-RED：http://nodered.org
 
-[![Build Status](https://travis-ci.org/node-red/node-red.png)](https://travis-ci.org/node-red/node-red) [![Coverage Status](https://coveralls.io/repos/node-red/node-red/badge.png?branch=master)](https://coveralls.io/r/node-red/node-red?branch=master)
+您也可以参加我创建的课程，学习怎样使用Node-RED做一些有趣的事：http://www.shiyanlou.com/courses/127
 
 
-A visual tool for wiring the Internet of Things.
-
-![Screenshot](http://nodered.org/images/node-red-screenshot.png "Node-RED: A visual tool for wiring the Internet of Things")
-
-## Quick Start
-
-Check out [INSTALL](INSTALL.md) for full instructions on getting started.
-
-1. download the zip and unzip, or git clone
-2. cd node-red
-3. npm install
-4. node red.js
-5. Open <http://localhost:1880>
-
-## Documentation
-
-More documentation can be found [here](http://nodered.org/docs).
-
-For further help, or general discussion, there is also a [mailing list](https://groups.google.com/forum/#!forum/node-red).
-
-## Browser Support
-
-The Node-RED editor runs in the browser. We routinely develop and test using
-Chrome and Firefox. We have anecdotal evidence that it works in IE9.
-
-We do not yet support mobile browsers, although that is high on our priority
-list.
 
 ## Contributing
 
